@@ -6,4 +6,5 @@
 - 'Ivan BINSTEIN Integrante 2'
 - https://docs.google.com/document/d/1aSkzk5GV2FpjJExfwiP8PMOgkANiH0EISNzavOZmjrw/edit
 - 'Martin CABALERI Integrante 3'
+- https://docs.google.com/document/d/1Gh1JBjuJLc9XeuIjscGmsLx0C4YdfWYq0lM7-pQTClw/edit?usp=sharing
 - 'Matias FERNANDEZ BLANCO Integrante 4'
